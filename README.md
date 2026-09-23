@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Naga Vamsi — a cybersecurity enthusiast and second-year student at Jerusalem College of Engineering. I'm passionate about ethical hacking, network security, and constantly exploring new tools and techniques to defend the digital world. Currently working on hands-on projects, CTFs, and building my skills every day. 🚀<br>Cybersecurity student | Passionate about ethical hacking, CTFs & digital defense 🔐<br>Learning by doing. Building one script at a time. 🚀
+Hi 👋 I'm Naga Vamsi — a cybersecurity enthusiast and Fourth-year student at Jerusalem College of Engineering. I'm passionate about ethical hacking, network security, and constantly exploring new tools and techniques to defend the digital world. Currently working on hands-on projects, CTFs, and building my skills every day. 🚀<br>Cybersecurity student | Passionate about ethical hacking, CTFs & digital defense 🔐<br>Learning by doing. Building one script at a time. 🚀
 
 
 ## 🌐 Socials:
